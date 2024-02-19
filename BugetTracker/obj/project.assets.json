@@ -10811,11 +10811,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Proiecte\\BugetTracker\\BugetTracker\\BugetTracker.csproj",
+      "projectUniqueName": "D:\\Proiecte\\BugetTracker - Public\\BugetTracker\\BugetTracker.csproj",
       "projectName": "BugetTracker",
-      "projectPath": "D:\\Proiecte\\BugetTracker\\BugetTracker\\BugetTracker.csproj",
+      "projectPath": "D:\\Proiecte\\BugetTracker - Public\\BugetTracker\\BugetTracker.csproj",
       "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-      "outputPath": "D:\\Proiecte\\BugetTracker\\BugetTracker\\obj\\",
+      "outputPath": "D:\\Proiecte\\BugetTracker - Public\\BugetTracker\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

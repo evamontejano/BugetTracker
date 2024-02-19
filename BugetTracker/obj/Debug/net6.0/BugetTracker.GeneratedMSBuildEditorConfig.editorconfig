@@ -8,61 +8,61 @@ build_property.PlatformNeutralAssembly =
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = BugetTracker
 build_property.RootNamespace = BugetTracker
-build_property.ProjectDir = D:\Proiecte\BugetTracker\BugetTracker\
+build_property.ProjectDir = D:\Proiecte\BugetTracker - Public\BugetTracker\
 build_property.RazorLangVersion = 6.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = D:\Proiecte\BugetTracker\BugetTracker
+build_property.MSBuildProjectDirectory = D:\Proiecte\BugetTracker - Public\BugetTracker
 build_property._RazorSourceGeneratorDebug = 
 
-[D:/Proiecte/BugetTracker/BugetTracker/Views/Category/AddOrEdit.cshtml]
+[D:/Proiecte/BugetTracker - Public/BugetTracker/Views/Category/AddOrEdit.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2F0ZWdvcnlcQWRkT3JFZGl0LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Proiecte/BugetTracker/BugetTracker/Views/Category/Index.cshtml]
+[D:/Proiecte/BugetTracker - Public/BugetTracker/Views/Category/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2F0ZWdvcnlcSW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Proiecte/BugetTracker/BugetTracker/Views/Dashboard/Index.cshtml]
+[D:/Proiecte/BugetTracker - Public/BugetTracker/Views/Dashboard/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGFzaGJvYXJkXEluZGV4LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Proiecte/BugetTracker/BugetTracker/Views/Home/Index.cshtml]
+[D:/Proiecte/BugetTracker - Public/BugetTracker/Views/Home/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Proiecte/BugetTracker/BugetTracker/Views/Home/Privacy.cshtml]
+[D:/Proiecte/BugetTracker - Public/BugetTracker/Views/Home/Privacy.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Proiecte/BugetTracker/BugetTracker/Views/Shared/Error.cshtml]
+[D:/Proiecte/BugetTracker - Public/BugetTracker/Views/Shared/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Proiecte/BugetTracker/BugetTracker/Views/Shared/_SideBar.cshtml]
+[D:/Proiecte/BugetTracker - Public/BugetTracker/Views/Shared/_SideBar.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9TaWRlQmFyLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Proiecte/BugetTracker/BugetTracker/Views/Shared/_ValidationScriptsPartial.cshtml]
+[D:/Proiecte/BugetTracker - Public/BugetTracker/Views/Shared/_ValidationScriptsPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Proiecte/BugetTracker/BugetTracker/Views/Transaction/AddOrEdit.cshtml]
+[D:/Proiecte/BugetTracker - Public/BugetTracker/Views/Transaction/AddOrEdit.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVHJhbnNhY3Rpb25cQWRkT3JFZGl0LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Proiecte/BugetTracker/BugetTracker/Views/Transaction/Index.cshtml]
+[D:/Proiecte/BugetTracker - Public/BugetTracker/Views/Transaction/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVHJhbnNhY3Rpb25cSW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Proiecte/BugetTracker/BugetTracker/Views/_ViewImports.cshtml]
+[D:/Proiecte/BugetTracker - Public/BugetTracker/Views/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Proiecte/BugetTracker/BugetTracker/Views/_ViewStart.cshtml]
+[D:/Proiecte/BugetTracker - Public/BugetTracker/Views/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Proiecte/BugetTracker/BugetTracker/Views/Shared/_Layout.cshtml]
+[D:/Proiecte/BugetTracker - Public/BugetTracker/Views/Shared/_Layout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = b-owmq2459u0
